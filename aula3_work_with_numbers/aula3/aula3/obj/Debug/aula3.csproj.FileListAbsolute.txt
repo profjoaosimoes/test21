@@ -1,0 +1,28 @@
+C:\Users\SimãoBoss\source\repos\aula3\aula3\bin\Debug\aula3.exe.config
+C:\Users\SimãoBoss\source\repos\aula3\aula3\bin\Debug\aula3.exe
+C:\Users\SimãoBoss\source\repos\aula3\aula3\bin\Debug\aula3.pdb
+C:\Users\SimãoBoss\source\repos\aula3\aula3\obj\Debug\aula3.csprojAssemblyReference.cache
+C:\Users\SimãoBoss\source\repos\aula3\aula3\obj\Debug\aula3.csproj.CoreCompileInputs.cache
+C:\Users\SimãoBoss\source\repos\aula3\aula3\obj\Debug\aula3.exe
+C:\Users\SimãoBoss\source\repos\aula3\aula3\obj\Debug\aula3.pdb
+C:\Users\SimãoBoss\Desktop\aula3\aula3\aula3\bin\Debug\aula3.exe.config
+C:\Users\SimãoBoss\Desktop\aula3\aula3\aula3\bin\Debug\aula3.exe
+C:\Users\SimãoBoss\Desktop\aula3\aula3\aula3\bin\Debug\aula3.pdb
+C:\Users\SimãoBoss\Desktop\aula3\aula3\aula3\obj\Debug\aula3.csprojAssemblyReference.cache
+C:\Users\SimãoBoss\Desktop\aula3\aula3\aula3\obj\Debug\aula3.csproj.CoreCompileInputs.cache
+C:\Users\SimãoBoss\Desktop\aula3\aula3\aula3\obj\Debug\aula3.exe
+C:\Users\SimãoBoss\Desktop\aula3\aula3\aula3\obj\Debug\aula3.pdb
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\aula3\aula3\aula3\bin\Debug\aula3.exe.config
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\aula3\aula3\aula3\bin\Debug\aula3.exe
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\aula3\aula3\aula3\bin\Debug\aula3.pdb
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\aula3\aula3\aula3\obj\Debug\aula3.csproj.AssemblyReference.cache
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\aula3\aula3\aula3\obj\Debug\aula3.csproj.CoreCompileInputs.cache
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\aula3\aula3\aula3\obj\Debug\aula3.exe
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\aula3\aula3\aula3\obj\Debug\aula3.pdb
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula3_work_with_numbers\aula3\aula3\bin\Debug\aula3.exe.config
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula3_work_with_numbers\aula3\aula3\bin\Debug\aula3.exe
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula3_work_with_numbers\aula3\aula3\bin\Debug\aula3.pdb
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula3_work_with_numbers\aula3\aula3\obj\Debug\aula3.exe
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula3_work_with_numbers\aula3\aula3\obj\Debug\aula3.pdb
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula3_work_with_numbers\aula3\aula3\obj\Debug\aula3.csproj.AssemblyReference.cache
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula3_work_with_numbers\aula3\aula3\obj\Debug\aula3.csproj.CoreCompileInputs.cache
